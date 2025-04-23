@@ -8,7 +8,7 @@
 ## Технический стек
 + MS Excel 
 + SQL
-+ Python
++ Python (python, pandas, matplotlib, seaborn, phik, statsmodels)
 + Jupyter Notebook
 + MS PowerPoint
 + DataLens
