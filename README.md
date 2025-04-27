@@ -13,7 +13,8 @@
 + Python (python, pandas, matplotlib, seaborn, phik, statsmodels)
 + Jupyter Notebook
 + MS PowerPoint
-+ DataLens
++ Datalens
++ DBeaver
 + A/B тесты
 
 ## Контакты
